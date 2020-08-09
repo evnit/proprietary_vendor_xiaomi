@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),curtana)
+ifneq ($(filter joyeuse,$(TARGET_DEVICE)),)
 
 endif
