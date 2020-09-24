@@ -1,0 +1,3 @@
+
+
+    vendor/xiaomi/joyeuse/proprietary/vendor/etc/powerhint.xml:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.xml \
